@@ -8,7 +8,7 @@ import java.util.TreeMap;
 /**
  * 
  */
-public class Launcher 
+public class Mapas 
 {
 
 	/**
